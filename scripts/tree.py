@@ -13,4 +13,4 @@ clf = clf.fit(x, y)
 
 prediction = clf.predict([[122, 232, 44]])
 
-print prediction
+print(prediction)
